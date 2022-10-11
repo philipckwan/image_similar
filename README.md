@@ -53,7 +53,7 @@ Specifying "copy" will simply make a copy of the matched file to the processed d
 
 Next, run the program on the command line.<br/>
 ```python
-pip python3 pck_image_similar.py
+python3 pck_image_similar.py
 ```
 
 Optional Command Line Arguments for Advanced Usage
