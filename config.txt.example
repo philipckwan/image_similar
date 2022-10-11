@@ -1,0 +1,8 @@
+[DEFAULT]
+imgSourceDirectory=/Users/philip/Pictures/whatsapp_photos
+imgProcessedDirectory=/Users/philip/Pictures/photo_albums/2022/whatsapp_photos_filtered
+imgMatchFileOrDirectory=/Users/philip/Pictures/match/01-phone_screen_white.jpg
+imgControlDirectory=
+matchPattern=5,15
+processMode=copy
+shouldIncludeNonExistedFiles=true

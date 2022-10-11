@@ -1,0 +1,15 @@
+location of the installed DeepImageSearch:
+/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/DeepImageSearch
+
+-first, to run load and index, skip searching:
+python3 pck_image_similar.py -sS
+
+-then, run searching, skip load and index, specify the match image:
+python3 pck_image_similar.py -sLI -m imgMatch2/IMG-20200107-WA0010.jpg 
+
+-or, you can specify the match image in the config.txt:
+imgMatchFileOrDirectory=imgMatch2/IMG-20200107-WA0010.jpg
+
+TODO:
+-skip videos, or in fact, only include image files
+-in processMatchFileOrDirectory(), handle the TODO item to process directory of subdirectories for imgMatchFileOrDirectory
