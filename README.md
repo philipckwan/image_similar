@@ -1,13 +1,13 @@
 # image_similar
 Python based program using DeepImageSearch module to search similar images within a directory
 
-This is a python program that uses the DeepImageSearch library:
+This is a python program that uses the DeepImageSearch library:<br/>
 https://github.com/TechyNilesh/DeepImageSearch<br/>
-an AI-based image search engine, to search within a directory of image files that are similar.
+An AI-based image search engine, to search within a directory of image files that are similar.
 
-The background of me developing this tool is that I have a habit of backing up all the photos from my mobile phone around once a year.
-Every time, after such backup of photos from my phone to my laptop, I can see that there are a lot of photos that I don't want to keep.
-For example, I received a lot of Whatsapp photos of someone's phone capture, or photos of newspaper clips.
+The background of me developing this tool is that I have a habit of backing up all the photos from my mobile phone around once a year.<br/>
+Every time, after such backup of photos from my phone to my laptop, I can see that there are a lot of photos that I don't want to keep.<br/>
+For example, I received a lot of Whatsapp photos of someone's phone capture, or photos of newspaper clips.<br/>
 So, I developed this tool that leverages the DeepImageSearch, along with some customization that I built on top of it, in order to suit my use.
 
 
