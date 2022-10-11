@@ -14,8 +14,6 @@ So, I developed this tool that leverages the DeepImageSearch, along with some cu
 Features
 -
 
-Please refer to the config.txt.example for the specific key field.
-
 This tool:
 * takes a source folder which should contain a lot of images/photos
 * takes a match folder or file, which should contain at least a single image, up to several images<br/>
