@@ -1,3 +1,8 @@
+20240820-Note (important):
+need to downgrade DeepImageSearch to v1.4 (currently latest v2.5) in order to work:
+$ pip index versions deepimagesearch
+$ pip install deepimagesearch==1.4
+
 location of the installed DeepImageSearch:
 /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/DeepImageSearch
 
