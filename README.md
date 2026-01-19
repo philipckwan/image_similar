@@ -36,7 +36,7 @@ Next, make a copy of the *config.txt.example* to *config.txt* in order to specif
 Update the parameters inside config.txt to suit your need.
 * imgSourceDirectory - specify the source folder which should contain a lot of images/photos<br/>
 ```imgSourceDirectory=/Users/philip/Pictures/whatsapp_photos```<br/>
-* imgProcessedDirectory - specify a match folder or file, which should contain at least a single image, up to just several images (recommended)<br/>
+* imgMatchFileOrDirectory - specify a match folder or file, which should contain at least a single image, up to just several images (recommended)<br/>
 ```imgMatchFileOrDirectory=/Users/philip/desktop/whatsapp_photos/01-phone_white_screen.jpg```<br/>
 * imgProcessedDirectory - specify the output, or processed, folder. Resulting image files that are matched will be moved or copied here<br/>
 ```imgProcessedDirectory=/Users/philip/Pictures/photo_albums/2022/whatsapp_photos_filtered```<br/>
